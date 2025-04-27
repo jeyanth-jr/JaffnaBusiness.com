@@ -2023,6 +2023,7 @@ textarea {
   --bs-btn-active-border-color: var(--tc-theme-primary);
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
 }
+
 .btn-outline-secondary:hover svg {
   transition-duration: 0.3s;
 }
@@ -3437,7 +3438,7 @@ strong {
 }
 
 .mt-3 {
-  margin-top: 1rem !important;
+  margin-top: 0rem !important;
 }
 
 .mt-4 {
